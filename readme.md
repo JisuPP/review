@@ -21,3 +21,6 @@
 ### 1.3. Experience
 
 - 프로그래밍 경력 : 1달
+
+
+## 2. Introduction
