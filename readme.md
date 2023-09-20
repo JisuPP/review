@@ -24,3 +24,6 @@
 
 
 ## 2. Introduction
+
+### 2.1. For a lifetime
+2023년에 처음으로 프로그래밍을 시작했습니다.
